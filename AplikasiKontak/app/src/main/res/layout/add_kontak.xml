@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_person_add_alt_1_24"
+        android:paddingBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Mahasiswa" />
+
+    <EditText
+        android:id="@+id/nm"
+        android:layout_width="400px"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No HP Mahasiswa" />
+
+    <EditText
+        android:id="@+id/hp"
+        android:layout_width="400px"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Mata Kuliah" />
+
+    <EditText
+        android:id="@+id/mk"
+        android:layout_width="400px"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nilai Quiz" />
+
+    <EditText
+        android:id="@+id/quiz"
+        android:layout_width="200px"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nilai Tugas" />
+
+    <EditText
+        android:id="@+id/tugas"
+        android:layout_width="200px"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nilai ETS" />
+
+    <EditText
+        android:id="@+id/ets"
+        android:layout_width="200px"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nilai EAS" />
+
+    <EditText
+        android:id="@+id/eas"
+        android:layout_width="200px"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+</LinearLayout>
