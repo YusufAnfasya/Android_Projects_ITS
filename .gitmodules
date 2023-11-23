@@ -1,3 +1,6 @@
 [submodule "KalkulatorSederhana"]
 	path = KalkulatorSederhana
 	url = https://github.com/YusufAnfasya/KalkulatorSederhana
+[submodule "LuasAreaFinal"]
+	path = LuasAreaFinal
+	url = https://github.com/YusufAnfasya/LuasAreaFinal
