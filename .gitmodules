@@ -4,3 +4,6 @@
 [submodule "LuasAreaFinal"]
 	path = LuasAreaFinal
 	url = https://github.com/YusufAnfasya/LuasAreaFinal
+[submodule "Aplikasi_Penjualan_Final"]
+	path = Aplikasi_Penjualan_Final
+	url = https://github.com/YusufAnfasya/Aplikasi_Penjualan_Final
