@@ -10,3 +10,6 @@
 [submodule "SimpleGoogleMaps"]
 	path = SimpleGoogleMaps
 	url = https://github.com/YusufAnfasya/SimpleGoogleMaps
+[submodule "Aplikasi_Mahasiswa_Final"]
+	path = Aplikasi_Mahasiswa_Final
+	url = https://github.com/YusufAnfasya/Aplikasi_Mahasiswa_Final
