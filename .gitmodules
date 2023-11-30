@@ -7,3 +7,6 @@
 [submodule "Aplikasi_Penjualan_Final"]
 	path = Aplikasi_Penjualan_Final
 	url = https://github.com/YusufAnfasya/Aplikasi_Penjualan_Final
+[submodule "Simple_Google_Maps"]
+	path = Simple_Google_Maps
+	url = https://github.com/YusufAnfasya/SimpleGoogleMaps
