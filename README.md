@@ -1,4 +1,4 @@
-# Android_Projects_ITS
+# Android Projects in ITS
 
 ###Owner
 #### Nama Yusuf Anfasya
