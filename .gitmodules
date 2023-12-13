@@ -13,3 +13,6 @@
 [submodule "Aplikasi_Mahasiswa_Final"]
 	path = Aplikasi_Mahasiswa_Final
 	url = https://github.com/YusufAnfasya/Aplikasi_Mahasiswa_Final
+[submodule "RealTimeFlowerRecognition_TensorFlowLite"]
+	path = RealTimeFlowerRecognition_TensorFlowLite
+	url = https://github.com/YusufAnfasya/RealTimeFlowerRecognition_TensorFlowLite
