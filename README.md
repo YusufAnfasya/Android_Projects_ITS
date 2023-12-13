@@ -2,8 +2,10 @@
 
 ## Tugas Mandiri
 
-### 1 Aplikasi Luas Area
+### 1.[Aplikasi Luas Area](https://github.com/YusufAnfasya/LuasAreaFinal)
 
-### 2
+### 2.Aplikasi Penjualan
+
+###
 
  
