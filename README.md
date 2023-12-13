@@ -1,8 +1,8 @@
 # Android_Projects_ITS
 
-@Owner
-Nama Yusuf Anfasya
-NRP 05111940000077
+###Owner
+#### Nama Yusuf Anfasya
+#### NRP 05111940000077
 
 ## Tugas Mandiri
 
