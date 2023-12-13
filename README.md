@@ -1,9 +1,9 @@
-#Android_Projects_ITS
+# Android_Projects_ITS
 
-##Tugas Mandiri
+## Tugas Mandiri
 
-###1 Aplikasi Luas Area
+### 1 Aplikasi Luas Area
 
-###2
+### 2
 
  
