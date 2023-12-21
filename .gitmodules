@@ -16,3 +16,6 @@
 [submodule "RealTimeFlowerRecognition_TensorFlowLite"]
 	path = RealTimeFlowerRecognition_TensorFlowLite
 	url = https://github.com/YusufAnfasya/RealTimeFlowerRecognition_TensorFlowLite
+[submodule "XML_JSON_PARSER"]
+	path = XML_JSON_PARSER
+	url = https://github.com/YusufAnfasya/XML_JSON_PARSER
